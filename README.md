@@ -20,8 +20,6 @@ We clean, analyze, and visualize patterns in the dataset to understand trends in
 ## 🧾 Dataset
 The dataset used is `netflix_titles.csv`, which contains details like title, type, director, country, release year, and genre.
 
-## Author
-**Kusuma** — Data Science & Analytics Enthusiast  
 Email: kusuma.nageswari.p@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/palivela-kusuma-nageswari](#)
 
